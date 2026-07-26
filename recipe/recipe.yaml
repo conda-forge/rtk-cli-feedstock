@@ -1,5 +1,5 @@
 context:
-  version: "0.43.0"
+  version: "0.44.0"
 
 package:
   name: rtk-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rtk-ai/rtk/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 196bec9e9b438f0b8cd0198f68e05f072ccdfdec2c2655a3562d6ea357fa485b
+  sha256: 2d473072d143daa62dc9e48f20266276cffb77b0addd829efb032336f539e8a4
 
 build:
   number: 0
